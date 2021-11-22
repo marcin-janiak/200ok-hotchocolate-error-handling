@@ -1,0 +1,1 @@
+This is a repository for an article: [Adopting 200 OK! Error Handling strategy in GraphQL with Hot Chocolate (dotnet).](https://dev.to/marcinjaniak/adopting-200-ok-error-handling-strategy-in-graphql-with-hotchocolate-dotnet-54md)
